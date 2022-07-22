@@ -1,0 +1,21 @@
+.todo-btn {
+    float: right;
+    color: white;
+}
+
+.todo-text {
+    text-align: left;
+    font-size: larger;
+    color: black;
+}
+
+.todo-btn-done {
+    background-image: linear-gradient(to right, rgb(84, 250, 208), white);
+}
+
+.filter {
+    width: 200px;
+    left: 5%;
+    top: 10%;
+    position: fixed;
+}
